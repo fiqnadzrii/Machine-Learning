@@ -1,0 +1,1 @@
+This course covers the fundamentals of supervised and unsupervised learning in machine learning, including algorithms for predicting outputs from labeled data and discovering hidden patterns in unlabeled data; I focused on comparative analysis of regression models and building neural networks using libraries like NumPy and Keras.
